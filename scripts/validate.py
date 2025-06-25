@@ -1,0 +1,1 @@
+print('Validating HelloWorld plugin...')
